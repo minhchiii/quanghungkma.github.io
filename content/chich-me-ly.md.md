@@ -1,6 +1,5 @@
 ---
 Title: Phishy Lab [Cyberdefender Medium]
-draft: "false"
 ---
 
 ## Scenario:
