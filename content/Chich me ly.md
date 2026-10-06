@@ -1,8 +1,8 @@
 ---
 Title: Phishy Lab [Cyberdefender Medium]
-draft: "False"
+draft: "false"
 ---
----
+
 ## Scenario:
 
 A company’s employee joined a fake iPhone giveaway. Our team took a disk image of the employee's system for further analysis.  
